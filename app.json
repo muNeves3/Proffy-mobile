@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/proffy.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#8257E5"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
